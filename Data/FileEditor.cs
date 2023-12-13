@@ -30,7 +30,6 @@ namespace TaskToXLSX10._12._23.Data
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("Тут что ли?");
                     Console.WriteLine(ex.Message);
                     return [];
                 }
