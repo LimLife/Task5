@@ -1,0 +1,72 @@
+# Visual Studio 
+######################
+*.suo
+*.user
+*.sln.docstates
+
+#Node
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+№VSCODE
+.vscode
+# Build results
+###############
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+.vs
+# Test Results
+##############
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Cache files
+#############
+[Tt]humbs.db
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.bak
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+
+# Miscellany 
+#############
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
